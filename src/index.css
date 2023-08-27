@@ -1,0 +1,17 @@
+
+.todo-list{
+  border: 1px solid rgb(92, 237, 92);
+  background-color:#CCF5D3;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+  border-radius: 15px;
+}
+
+.todo-list:hover{
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+input{
+      border-color: transparent;
+      border-radius: 5px;
+      background-color:#CCF5D3;
+}
